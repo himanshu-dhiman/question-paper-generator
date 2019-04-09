@@ -4,7 +4,7 @@ import random
 
 while True:
 	try:
-		total_number_of_marks = int(input("Enter number of total marks : ")); 
+		total_number_of_marks = int(input("\nEnter number of total marks : ")); 
 	except ValueError:
 		print("That's not an int!")
 		continue
