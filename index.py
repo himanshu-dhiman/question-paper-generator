@@ -38,18 +38,18 @@ selected_hard_questions = paper_generator.pick_questions(marks_of_hard_questions
 
 if(selected_easy_questions['total_marks_picked'] != marks_of_easy_questions):
 	print("\nCan't reach required marks for Easy Section, please add a question for %d marks in data" % selected_easy_questions['marks_left'])
-print("Easy Section : %d" % selected_easy_questions['total_marks_picked'])
+print("\nEasy Section : %d" % selected_easy_questions['total_marks_picked'])
 for question in selected_easy_questions['questions']:
 	print("Question ID : %d , Marks : %d" % (question['id'], question['marks']))
 
 if(selected_medium_questions['total_marks_picked'] != marks_of_medium_questions):
 	print("\nCan't reach required marks for Medium Section, please add a question for %d marks in data" % selected_medium_questions['marks_left'])
-print("Medium Section : %d" % selected_medium_questions['total_marks_picked'])
+print("\nMedium Section : %d" % selected_medium_questions['total_marks_picked'])
 for question in selected_medium_questions['questions']:
 	print("Question ID : %d , Marks : %d" % (question['id'], question['marks']))
 
 if(selected_hard_questions['total_marks_picked'] != marks_of_hard_questions):
 	print("\nCan't reach required marks for Hard Section, please add a question for %d marks in data" % selected_hard_questions['marks_left'])
-print("Hard Section : %d" % selected_hard_questions['total_marks_picked'])
+print("\nHard Section : %d" % selected_hard_questions['total_marks_picked'])
 for question in selected_hard_questions['questions']:
 	print("Question ID : %d , Marks : %d" % (question['id'], question['marks']))
