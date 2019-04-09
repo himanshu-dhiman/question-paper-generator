@@ -8,8 +8,12 @@ while True:
 	except ValueError:
 		print("That's not an int!")
 		continue
+	if total_number_of_marks < 10 :
+		print("\n Oh! Error! - Please insert a value between 10 and 100")
+		continue
 	else:
 		break
+
 
 paper_generator = Generator()
 
