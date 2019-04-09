@@ -1,0 +1,117 @@
+[
+	{
+		"id" : 1,
+		"difficulty" : "medium",
+		"marks" : 3
+	},
+	{
+		"id" : 2,
+		"difficulty" : "medium",
+		"marks" : 2
+	},
+	{
+		"id" : 3,
+		"difficulty" : "medium",
+		"marks" : 2
+	},
+	{
+		"id" : 4,
+		"difficulty" : "medium",
+		"marks" : 5
+	},
+	{
+		"id" : 5,
+		"difficulty" : "medium",
+		"marks" : 1
+	},
+	{
+		"id" : 6,
+		"difficulty" : "medium",
+		"marks" : 1
+	},
+	{
+		"id" : 7,
+		"difficulty" : "medium",
+		"marks" : 2
+	},
+	{
+		"id" : 8,
+		"difficulty" : "medium",
+		"marks" : 5
+	},
+	{
+		"id" : 9,
+		"difficulty" : "medium",
+		"marks" : 3
+	},
+	{
+		"id" : 10,
+		"difficulty" : "medium",
+		"marks" : 3
+	},
+	{
+		"id" : 11,
+		"difficulty" : "medium",
+		"marks" : 2
+	},
+	{
+		"id" : 12,
+		"difficulty" : "medium",
+		"marks" : 2
+	},
+	{
+		"id" : 13,
+		"difficulty" : "medium",
+		"marks" : 5
+	},
+	{
+		"id" : 14,
+		"difficulty" : "medium",
+		"marks" : 3
+	},
+	{
+		"id" : 15,
+		"difficulty" : "medium",
+		"marks" : 3
+	},
+	{
+		"id" : 16,
+		"difficulty" : "medium",
+		"marks" : 2
+	},
+	{
+		"id" : 17,
+		"difficulty" : "medium",
+		"marks" : 3
+	},
+	{
+		"id" : 18,
+		"difficulty" : "medium",
+		"marks" : 3
+	},
+	{
+		"id" : 19,
+		"difficulty" : "medium",
+		"marks" : 1
+	},
+	{
+		"id" : 20,
+		"difficulty" : "medium",
+		"marks" : 1
+	},
+	{
+		"id" : 21,
+		"difficulty" : "medium",
+		"marks" : 5
+	},
+	{
+		"id" : 22,
+		"difficulty" : "medium",
+		"marks" : 1
+	},
+	{
+		"id" : 23,
+		"difficulty" : "medium",
+		"marks" : 1
+	}
+]
